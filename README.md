@@ -1,3 +1,10 @@
+# Sonraki değişikliklerde yapman gerekenler:
+Her değişiklikten sonra:
+git add .
+git commit -m "yaptığın değişiklik"
+git push
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
